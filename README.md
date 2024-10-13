@@ -131,10 +131,15 @@ int main()
 
 ~~~
 ## Output-
+![image](https://github.com/user-attachments/assets/86c4fc01-c61e-43b3-b5ad-caa2ba58d080)
+![image](https://github.com/user-attachments/assets/622b477f-3d43-4b9f-9ae4-9c28de7ea1ad)
+![image](https://github.com/user-attachments/assets/fc01a604-3d73-4902-acde-c2d51a4268ef)
+
+
 
 
 ## Conclusion-
-we learnt about recursion in c++
+Learnt how to use recursive techniques in c++
 
 
 
